@@ -8,5 +8,5 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(result1, 10)
         self.assertEqual(result2, 1)
 
-if _name_ == "_main_":
-    unittest.main ()
+if __name__ == "__main__":
+    unittest.main()
