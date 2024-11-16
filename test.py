@@ -9,4 +9,4 @@ class TestCalculator(unittest.TestCase):
         self.assertEqual(result2, 1)
 
 if _name_ == "_main_":
-    unittest.main()
+    unittest.main ()
